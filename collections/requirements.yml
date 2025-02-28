@@ -1,8 +1,4 @@
 ---
 collections:
-  - name: 'ansible.utils'
-    version: '4.1.0'
-  - name: 'ansible.posix'
-    version: '1.4.0'
-  - name: 'community.general'
+  - name: 'redhat.satellite'
 ...
